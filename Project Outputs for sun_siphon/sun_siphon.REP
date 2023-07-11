@@ -2,22 +2,29 @@
 FileName = sun_siphon.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Solder
-      File : sun_siphon.GTS
+Generating : Board Outline (M30)
+      File : sun_siphon.GM30
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Board Outline (M30)
 
-    Adding Layer      : Top Layer
+
+Used DCodes :
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : sun_siphon.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
+    D21
 *************************************************************
 
 *************************************************************
@@ -30,59 +37,7 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : sun_siphon.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : sun_siphon.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : sun_siphon.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Board Outline (M30)
-      File : sun_siphon.GM30
-
-    Adding Layer      : Board Outline (M30)
-
-
-Used DCodes :
-    D10
+    D26
 *************************************************************
 
 *************************************************************
@@ -109,11 +64,64 @@ Generating : Top Pad Master
 
 
 Used DCodes :
+    D11
     D12
     D13
     D14
     D15
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : sun_siphon.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : sun_siphon.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : sun_siphon.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D22
+    D23
+    D24
     D25
+    D26
 *************************************************************
 
 *************************************************************
@@ -127,18 +135,23 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : sun_siphon.GBS
+Generating : Top Solder
+      File : sun_siphon.GTS
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Solder
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D16
+    D17
+    D18
+    D19
     D20
+    D21
 *************************************************************
 
 *************************************************************
@@ -150,28 +163,18 @@ Generating : Top Overlay
 
 Used DCodes :
     D10
-    D11
 *************************************************************
 
 *************************************************************
-Generating : Top Layer
-      File : sun_siphon.GTL
+Generating : Bottom Layer
+      File : sun_siphon.GBL
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-    D21
-    D22
-    D23
-    D24
-    D25
+    D26
 *************************************************************
 
