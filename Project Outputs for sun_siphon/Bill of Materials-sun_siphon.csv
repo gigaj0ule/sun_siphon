@@ -1,4 +1,5 @@
 Comment,Description,Designator,Footprint,LCSC Part #,LibRef,Quantity
 
+"","J - Jack - SMD Header 6s 1p","J?","95293401A06LF","C178297","","3"
 "0402WGF1002TCE","R - RESISTOR - SMD - 10k - 1% - 0402","R_A, R_B, R_C","R_0402","C25744","0402WGF1002TCE","3"
 "NCP15XH103F03RC","RT - NTC THERMISTOR - 10k - 1% - 0402","R_NTC_A, R_NTC_B, R_NTC_C","R_0402","C77131","NCP15XH103F03RC","3"

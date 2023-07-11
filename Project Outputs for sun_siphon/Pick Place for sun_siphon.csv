@@ -4,13 +4,16 @@ C:\git\sun_siphon\Project Outputs for sun_siphon\Pick Place for sun_siphon.csv
 ========================================================================================================================
 File Design Information:
 
-Date:       10/07/23
-Time:       18:22
-Revision:   ae21e9e110a88dfa9bedd8f975ae795ca99bae74
+Date:       11/07/23
+Time:       01:54
+Revision:   ad5507c0717605e65a894a6d0ff7817abd9fac5c
 Variant:    No variations
 Units used: mm
 
 "Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J?","*","TopLayer","95293401A06LF","140.0000","49.0000","180","J - Jack - SMD Header 6s 1p","140.0000","49.0000","146.3500","47.6350"
+"J?","*","TopLayer","95293401A06LF","117.0000","49.0000","180","J - Jack - SMD Header 6s 1p","117.0000","49.0000","123.3500","47.6350"
+"J?","*","TopLayer","95293401A06LF","58.5000","49.5000","360","J - Jack - SMD Header 6s 1p","58.5000","49.5000","52.1500","50.8650"
 "R_NTC_C","NCP15XH103F03RC","TopLayer","R_0402","159.0000","56.5000","270","RT - NTC THERMISTOR - 10k - 1% - 0402","159.0000","56.5000","159.0000","57.0080"
 "R_NTC_B","NCP15XH103F03RC","TopLayer","R_0402","97.7900","53.3400","360","RT - NTC THERMISTOR - 10k - 1% - 0402","97.7900","53.3400","97.2820","53.3400"
 "R_NTC_A","NCP15XH103F03RC","TopLayer","R_0402","36.0000","56.5000","270","RT - NTC THERMISTOR - 10k - 1% - 0402","36.0000","56.5000","36.0000","57.0080"
