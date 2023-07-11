@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\git\sun_siphon\Project Outputs for sun_siphon\Pick Place for sun_siphon.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/07/23
+Time:       17:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"R_NTC_C","NCP15XH103F03RC","TopLayer","R_0402","159.0000","56.5000","270","RT - NTC THERMISTOR - 10k - 1% - 0402","159.0000","56.5000","159.0000","57.0080"
+"R_NTC_B","NCP15XH103F03RC","TopLayer","R_0402","97.7900","53.3400","360","RT - NTC THERMISTOR - 10k - 1% - 0402","97.7900","53.3400","97.2820","53.3400"
+"R_NTC_A","NCP15XH103F03RC","TopLayer","R_0402","36.0000","56.5000","270","RT - NTC THERMISTOR - 10k - 1% - 0402","36.0000","56.5000","36.0000","57.0080"
+"R_C","0402WGF1002TCE","TopLayer","R_0402","61.0000","45.0000","90","R - RESISTOR - SMD - 10k - 1% - 0402","61.0000","45.0000","61.0000","44.4920"
+"R_B","0402WGF1002TCE","TopLayer","R_0402","58.5000","45.0000","90","R - RESISTOR - SMD - 10k - 1% - 0402","58.5000","45.0000","58.5000","44.4920"
+"R_A","0402WGF1002TCE","TopLayer","R_0402","56.0000","45.0000","90","R - RESISTOR - SMD - 10k - 1% - 0402","56.0000","45.0000","56.0000","44.4920"

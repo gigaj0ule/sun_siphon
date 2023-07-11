@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [sun_siphon.PcbDoc]
+   Generated File[sun_siphon.TXT]
+   Generated File[sun_siphon.LDP]
+   Generated File[sun_siphon.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:58:20 PM On 7/10/2023

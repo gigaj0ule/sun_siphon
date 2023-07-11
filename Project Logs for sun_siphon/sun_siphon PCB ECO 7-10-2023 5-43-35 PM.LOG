@@ -1,0 +1,51 @@
+Added Component: Designator=R_A(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R_B(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R_C(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R_NTC_A(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C77131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "3380k"; VariantName = "[No Variations]"
+Added Component: Designator=R_NTC_B(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C77131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "3380k"; VariantName = "[No Variations]"
+Added Component: Designator=R_NTC_C(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C77131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value2"; Value = "3380k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R_NTC_A-1
+Added Pin To Net: NetName=GND Pin=R_NTC_B-1
+Added Pin To Net: NetName=GND Pin=R_NTC_C-1
+Added Pin To Net: NetName=TS_0 Pin=R_A-2
+Added Pin To Net: NetName=TS_0 Pin=R_NTC_A-2
+Added Net: Name=TS_0
+Added Pin To Net: NetName=TS_1 Pin=R_B-2
+Added Pin To Net: NetName=TS_1 Pin=R_NTC_B-2
+Added Net: Name=TS_1
+Added Pin To Net: NetName=TS_2 Pin=R_C-2
+Added Pin To Net: NetName=TS_2 Pin=R_NTC_C-2
+Added Net: Name=TS_2
+Added Pin To Net: NetName=TS_VCC Pin=R_A-1
+Added Pin To Net: NetName=TS_VCC Pin=R_B-1
+Added Pin To Net: NetName=TS_VCC Pin=R_C-1
+Added Net: Name=TS_VCC
+Added Class: Name=sun_siphon
+Added Room: Name=sun_siphon
