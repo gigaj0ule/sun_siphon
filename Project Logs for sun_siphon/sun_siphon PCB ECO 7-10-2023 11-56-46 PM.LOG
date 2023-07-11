@@ -1,0 +1,37 @@
+Added Component: Designator=J?(95293401A06LF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/95293-401a06lf/amphenol-fci"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/95293.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C178297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Communications Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "95293-401A06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "649-95293-401A06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/95293-401A06LF?qs=oXYgH1SZuXGq9NYCLiAkwA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(95293401A06LF)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/95293-401a06lf/amphenol-fci"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/95293.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C178297"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Communications Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "95293-401A06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "649-95293-401A06LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Amphenol-FCI/95293-401A06LF?qs=oXYgH1SZuXGq9NYCLiAkwA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLabel225 Pin=J?-1
+Added Pin To Net: NetName=NetLabel225 Pin=J?-2
+Added Pin To Net: NetName=NetLabel225 Pin=J?-3
+Added Pin To Net: NetName=NetLabel225 Pin=J?-4
+Added Pin To Net: NetName=NetLabel225 Pin=J?-5
+Added Pin To Net: NetName=NetLabel225 Pin=J?-6
+Added Net: Name=NetLabel225
+Added Pin To Net: NetName=NetLabel226 Pin=J?-1
+Added Pin To Net: NetName=NetLabel226 Pin=J?-2
+Added Pin To Net: NetName=NetLabel226 Pin=J?-3
+Added Pin To Net: NetName=NetLabel226 Pin=J?-4
+Added Pin To Net: NetName=NetLabel226 Pin=J?-5
+Added Pin To Net: NetName=NetLabel226 Pin=J?-6
+Added Net: Name=NetLabel226
+Added Member To Class: ClassName=sun_siphon Member=Component J? *
+Added Member To Class: ClassName=sun_siphon Member=Component J? *
+Added Member To Class: ClassName=sun_siphon Member=Component J? *
