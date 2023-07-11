@@ -2,14 +2,13 @@
 FileName = sun_siphon.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline (M30)
-      File : sun_siphon.GM30
+Generating : Keep-Out Layer
+      File : sun_siphon.GKO
 
-    Adding Layer      : Board Outline (M30)
+    Adding Layer      : Keep-Out Layer
 
 
 Used DCodes :
-    D27
 *************************************************************
 
 *************************************************************
@@ -28,16 +27,37 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : sun_siphon.GPB
+Generating : Top Layer
+      File : sun_siphon.GTL
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D22
+    D23
+    D24
+    D25
     D26
+*************************************************************
+
+*************************************************************
+Generating : Board Outline (M30)
+      File : sun_siphon.GM30
+
+    Adding Layer      : Board Outline (M30)
+
+
+Used DCodes :
+    D27
 *************************************************************
 
 *************************************************************
@@ -70,68 +90,6 @@ Used DCodes :
     D14
     D15
     D26
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : sun_siphon.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : sun_siphon.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D13
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : sun_siphon.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D22
-    D23
-    D24
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : sun_siphon.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -168,6 +126,48 @@ Used DCodes :
 *************************************************************
 Generating : Bottom Layer
       File : sun_siphon.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : sun_siphon.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : sun_siphon.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : sun_siphon.GPB
 
     Adding Layer      : Bottom Layer
 
