@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=J?-1
+Removed Pin From Net: NetName=TS_0 Pin=J?-3
+Removed Pin From Net: NetName=TS_1 Pin=J?-4
+Removed Pin From Net: NetName=TS_2 Pin=J?-5
+Removed Pin From Net: NetName=TS_VCC Pin=J?-6
+Removed Member From Class: ClassName=sun_siphon Member=J?
+Added Component: Designator=JT_A(MOLEX_1041880210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C565283"; VariantName = "[No Variations]"
+Added Component: Designator=JT_B(MOLEX_1041880210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C565283"; VariantName = "[No Variations]"
+Added Component: Designator=JT_C(MOLEX_1041880210)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C565283"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TS_0 Pin=JT_A-1
+Added Pin To Net: NetName=TS_0 Pin=JT_A-1
+Added Pin To Net: NetName=TS_1 Pin=JT_A-2
+Added Pin To Net: NetName=TS_1 Pin=JT_A-2
+Added Pin To Net: NetName=TS_2 Pin=JT_B-1
+Added Pin To Net: NetName=TS_2 Pin=JT_B-1
+Added Pin To Net: NetName=TS_VCC Pin=JT_C-1
+Added Pin To Net: NetName=TS_VCC Pin=JT_C-1
+Added Pin To Net: NetName=GND Pin=JT_C-2
+Added Pin To Net: NetName=GND Pin=JT_C-2
+Added Member To Class: ClassName=sun_siphon Member=Component JT_A *
+Added Member To Class: ClassName=sun_siphon Member=Component JT_B *
+Added Member To Class: ClassName=sun_siphon Member=Component JT_C *

@@ -1,0 +1,21 @@
+Change Component DesignItemId : Designator=J? Old DesignItemId= New DesignItemId=95293-401A06LF
+Added Component: Designator=J_A(Adels-Contact_351402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "X"; VariantName = "[No Variations]"
+Added Component: Designator=J_B(Adels-Contact_351402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetLabel225 Pin=J_A-1
+Added Pin To Net: NetName=NetLabel225 Pin=J_A-1
+Added Pin To Net: NetName=NetLabel225 Pin=J_A-2
+Added Pin To Net: NetName=NetLabel225 Pin=J_A-2
+Added Pin To Net: NetName=NetLabel226 Pin=J_B-1
+Added Pin To Net: NetName=NetLabel226 Pin=J_B-1
+Added Pin To Net: NetName=NetLabel226 Pin=J_B-2
+Added Pin To Net: NetName=NetLabel226 Pin=J_B-2
+Added Member To Class: ClassName=sun_siphon Member=Component J? *
+Added Member To Class: ClassName=sun_siphon Member=Component J_A 351402
+Added Member To Class: ClassName=sun_siphon Member=Component J_B 351402
+Added Room: Name=sun_siphon
